@@ -9,7 +9,13 @@ export class ProductCreateComponent implements OnInit {
 
   constructor() { }
 
+  coolAttribute = 'Any'
+
   ngOnInit(): void {
+  }
+
+  makeAnything(): void {
+    console.log('Making Anything!');
   }
 
 }
