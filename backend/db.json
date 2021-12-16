@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "Price": 5.89
+      "price": 5.89
     },
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "Price": 12000.67
+      "price": 12000.67
     },
     {
       "id": 3,
       "name": "Geladeira",
-      "Price": 5000
+      "price": 5000
     },
     {
       "name": "Lápis Preto",
